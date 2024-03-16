@@ -1,0 +1,17 @@
+{
+    "name": "Daydream.BattleSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d1dc04c02b43071458aefec81763e7be",
+        "GUID:4743074aa762f1344a87a37b7fdfac16"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

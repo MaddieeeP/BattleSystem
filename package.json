@@ -1,0 +1,11 @@
+{
+  "name": "com.daydream.battlesystem",
+  "version": "0.0.0",
+  "displayName": "Battle System",
+  "description": "Implementation of damageable and damaging objects.",
+  "rootnamespace": "daydream",
+  "dependencies": {
+    "com.daydream.utilities": "0.0.0",
+    "com.daydream.physicssystem": "0.0.0"
+  }
+}
